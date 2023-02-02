@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\bin\Debug\constructor_8_less.exe.config
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\bin\Debug\constructor_8_less.exe
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\bin\Debug\constructor_8_less.pdb
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less_MarkupCompile.cache
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less_MarkupCompile.lref
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.g.resources
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.Properties.Resources.resources
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.exe
+C:\Users\Админ\source\repos\constructor_8_less\constructor_8_less\obj\Debug\constructor_8_less.pdb

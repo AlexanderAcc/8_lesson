@@ -1,0 +1,15 @@
+﻿<Window x:Class="constructor_8_less.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:constructor_8_less"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid Background="#FFA0F399">
+        <Button x:Name="button" Content="Вывести" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" Height="25" Click="Button_Click" Background="#FFD81212" Foreground="White" Width="56"/>
+        <TextBox x:Name="textbox" HorizontalAlignment="Center" Margin="0,68,0,0" TextWrapping="Wrap" Text="Обязательное поле" VerticalAlignment="Top" Width="120" Foreground="White" Background="#FF6364E0" BorderBrush="#FF3862DE" Height="21"/>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Center" Margin="0,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Foreground="White" Background="#FF6364E0" BorderBrush="#FF3862DE" Height="21"/>
+
+    </Grid>
+</Window>
